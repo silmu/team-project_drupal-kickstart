@@ -1,0 +1,10 @@
+uuid: a347f04c-885f-4767-a4e0-b0713e153341
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: z4KzIiGz2iUV5AKDk-N3e1Zu75fFT4k1qleIpgAnkAI
+name: 'Product Brands'
+vid: product_brands
+description: ''
+weight: 0

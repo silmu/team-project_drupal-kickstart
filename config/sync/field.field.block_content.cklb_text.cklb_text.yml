@@ -1,0 +1,23 @@
+uuid: afc8cb8a-b873-490c-a225-c596f403a584
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.cklb_text
+    - field.storage.block_content.cklb_text
+  module:
+    - text
+_core:
+  default_config_hash: C-84DVv7mwcBbH8YTaTEJjwdmqOBEJrBrmBkbnMVEhg
+id: block_content.cklb_text.cklb_text
+field_name: cklb_text
+entity_type: block_content
+bundle: cklb_text
+label: Text
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long
